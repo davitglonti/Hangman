@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\davit\\source\\repos\\HangmanGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49813FB1-668F-459E-AF7F-EFFA0574B71C}|HangmanGame\\HangmanGame.csproj|c:\\users\\davit\\source\\repos\\hangmangame\\hangmangame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49813FB1-668F-459E-AF7F-EFFA0574B71C}|HangmanGame\\HangmanGame.csproj|solutionrelative:hangmangame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49813FB1-668F-459E-AF7F-EFFA0574B71C}|HangmanGame\\HangmanGame.csproj|c:\\users\\davit\\source\\repos\\hangmangame\\hangmangame\\hangmangame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49813FB1-668F-459E-AF7F-EFFA0574B71C}|HangmanGame\\HangmanGame.csproj|solutionrelative:hangmangame\\hangmangame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49813FB1-668F-459E-AF7F-EFFA0574B71C}|HangmanGame\\HangmanGame.csproj|c:\\users\\davit\\source\\repos\\hangmangame\\hangmangame\\hangmangame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49813FB1-668F-459E-AF7F-EFFA0574B71C}|HangmanGame\\HangmanGame.csproj|solutionrelative:hangmangame\\hangmangame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HangmanGame.cs",
+              "DocumentMoniker": "C:\\Users\\davit\\source\\repos\\HangmanGame\\HangmanGame\\HangmanGame.cs",
+              "RelativeDocumentMoniker": "HangmanGame\\HangmanGame.cs",
+              "ToolTip": "C:\\Users\\davit\\source\\repos\\HangmanGame\\HangmanGame\\HangmanGame.cs*",
+              "RelativeToolTip": "HangmanGame\\HangmanGame.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T05:22:53.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HangmanGame.csproj",
+              "DocumentMoniker": "C:\\Users\\davit\\source\\repos\\HangmanGame\\HangmanGame\\HangmanGame.csproj",
+              "RelativeDocumentMoniker": "HangmanGame\\HangmanGame.csproj",
+              "ToolTip": "C:\\Users\\davit\\source\\repos\\HangmanGame\\HangmanGame\\HangmanGame.csproj",
+              "RelativeToolTip": "HangmanGame\\HangmanGame.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-26T20:27:47.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\davit\\source\\repos\\HangmanGame\\HangmanGame\\Program.cs",
+              "RelativeDocumentMoniker": "HangmanGame\\Program.cs",
+              "ToolTip": "C:\\Users\\davit\\source\\repos\\HangmanGame\\HangmanGame\\Program.cs*",
+              "RelativeToolTip": "HangmanGame\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T20:26:07.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
