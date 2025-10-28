@@ -1,12 +1,13 @@
+C:\Users\davit\source\repos\HangGame\HangGame\obj\Debug\net8.0\HangGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davit\source\repos\HangGame\HangGame\obj\Debug\net8.0\HangGame.AssemblyInfoInputs.cache
+C:\Users\davit\source\repos\HangGame\HangGame\obj\Debug\net8.0\HangGame.AssemblyInfo.cs
+C:\Users\davit\source\repos\HangGame\HangGame\obj\Debug\net8.0\HangGame.csproj.CoreCompileInputs.cache
+C:\Users\davit\source\repos\HangGame\HangGame\obj\Debug\net8.0\HangGame.sourcelink.json
 C:\Users\davit\source\repos\HangGame\HangGame\bin\Debug\net8.0\HangGame.exe
 C:\Users\davit\source\repos\HangGame\HangGame\bin\Debug\net8.0\HangGame.deps.json
 C:\Users\davit\source\repos\HangGame\HangGame\bin\Debug\net8.0\HangGame.runtimeconfig.json
 C:\Users\davit\source\repos\HangGame\HangGame\bin\Debug\net8.0\HangGame.dll
 C:\Users\davit\source\repos\HangGame\HangGame\bin\Debug\net8.0\HangGame.pdb
-C:\Users\davit\source\repos\HangGame\HangGame\obj\Debug\net8.0\HangGame.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\davit\source\repos\HangGame\HangGame\obj\Debug\net8.0\HangGame.AssemblyInfoInputs.cache
-C:\Users\davit\source\repos\HangGame\HangGame\obj\Debug\net8.0\HangGame.AssemblyInfo.cs
-C:\Users\davit\source\repos\HangGame\HangGame\obj\Debug\net8.0\HangGame.csproj.CoreCompileInputs.cache
 C:\Users\davit\source\repos\HangGame\HangGame\obj\Debug\net8.0\HangGame.dll
 C:\Users\davit\source\repos\HangGame\HangGame\obj\Debug\net8.0\refint\HangGame.dll
 C:\Users\davit\source\repos\HangGame\HangGame\obj\Debug\net8.0\HangGame.pdb

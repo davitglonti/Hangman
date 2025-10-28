@@ -71,6 +71,24 @@ namespace HangGame
         {
             return string.Join(" ", guessedLetters);
         }
+
+        public bool IsWordGuessed()
+        {
+            return !new string(guessedLetters).Contains('_');
+        }
+
+        public bool IsGameOver()
+        {
+            return wrongGuesses >= maxWrongGuesses || IsWordGuessed();
+        }
+
+        public string GetWord()
+        {
+            return wordToGuess;
+        }
+
+
+
     }
 
 }

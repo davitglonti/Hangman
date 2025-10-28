@@ -4,22 +4,33 @@
     {
         static void Main(string[] args)
         {
-            List<string> words = new List<string> { "APPLE", "BANANA", "ORANGE", "MANGO" };
+            List<string> words = LoadWordsFromFile("words.txt");
+  
             HangmanGame game = new HangmanGame(words, 6);
 
+            Console.WriteLine("Game started");
             game.StartNewGame();
 
-            Console.WriteLine("Game started");
-            Console.WriteLine("New game word length: " + game.GetWordLength());
+            Console.WriteLine($"New game word length: {game.GetWordLength()}"); 
+            
 
-            Console.WriteLine("\nGuessing A:");
-            game.GuessLetter('A');
-            Console.WriteLine("Current word: " + game.GetCurrentWordState());
+            while (!game.IsGameOver())
+            {
+                Console.Write("Enter a letter: ");
+                char input = Console.ReadKey().KeyChar;
+                
+                game.GuessLetter(input);
+                Console.WriteLine($"Current word: {game.GetCurrentWordState()}");
+               
+            }
 
-            Console.WriteLine("\nGuessing Z:");
-            game.GuessLetter('Z');
-            Console.WriteLine("Current word: " + game.GetCurrentWordState());
+            if (game.IsWordGuessed())
+                Console.WriteLine($"\n You won! The word was: {game.GetWord()}");
+            else
+                Console.WriteLine($"\n You lost! The word was: {game.GetWord()}");
 
         }
+
+
     }
 }
